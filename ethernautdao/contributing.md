@@ -50,6 +50,7 @@ If you are modifying content directly by making commits on the repository, make 
 When creating a new file or directory please follow these rules \(some are automatically enforced when you use Gitbook\) :
 
 * Use only lowercase letters
+* Do not use special characters and spaces
 * Use hyphens as a word separation
 * Use a filename as close as possible as the title of the page but if it is too long shorten it
 
@@ -84,7 +85,17 @@ If there are no convention for your favorite language do not hesitate to propose
 
 #### Media
 
-Adding an image can be done using the proper Markdown syntax, either using an external link or a direct reference to the path of the image. In the latter case, the file must be added in the `.gitbook/assets/` hidden folder at the root of the documentation. Hence you will add a link to the image relative to where the documentation page is in the path. If you add a page in the section `activity` the image link will be`![]`\(`../.gitbook/assets/filename.jpeg)`
+Adding an image can be done using the proper Markdown syntax, either using an external link or a direct reference to the path of the image. Videos files can also be added to pages as Gitbook supports [embedded content](https://docs.gitbook.com/editing-content/embeds), do not upload videos to the repository.
+
+When adding image to the documentation :
+
+1. File must not exceed 150 KB.
+2. All files must be in the`.gitbook/assets` at the root of the documentation
+3. File reused across multiples sections must be in the `common`subdirectory
+4. File specifically used in one section must be in the subdirectory with the same name as the section
+5. Following [naming](contributing.md#naming) conventions use clear names describing the content of the media
+
+As the assets directory is at the root of the documentation, to add a link to the image the path must be relative : if you add a page in the section `activity` the image link will be`![]`\(`../.gitbook/assets/filename.jpeg)`
 
 If you are using Gitbook you can directly add an image using the [insert palette](https://docs.gitbook.com/editing-content/rich-content/with-insert-palette).
 
