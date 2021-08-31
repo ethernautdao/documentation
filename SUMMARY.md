@@ -5,6 +5,7 @@
 ## EthernautDAO
 
 * [Introduction](ethernautdao/introduction.md)
+* [Getting Started](ethernautdao/getting-started.md)
 * [Contributing](ethernautdao/contributing.md)
 
 ## Educational Resources
