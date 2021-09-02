@@ -137,20 +137,18 @@ We can define two category of improvements :
 * **Small** : These changes do not necessarily require a discussion and the process is straightforward. \(e.g. typo correction, paragraph improvement, adding a resource, etc\)
 * **Big** : These changes can have an important impact on the documentation and should therefore be discussed before having to work on it. \(e.g. documentation structure change, adding a new section, changing the structure of a page, propose a new process, etc.\)
 
-### 
-
 ### Github
 
-Using this method is the most straightforward way of proposing a modification for the documentation as it does not require the creation  of an account by the documentation admins. Anyone with a Github account can propose a P.R or create an issue.
+Using this method is the most straightforward way of proposing a modification for the documentation as it does not require the creation  of an account by the documentation admins. Anyone with a Github account can propose a pull request or create an issue.
 
-#### Small
+#### Small improvement
 
 1. Fork the documentation repository
 2. Create a new branch following the branche naming convention
 3. Make the changes and commit them
 4. Create a pull request on the documentation repository
 
-#### Big
+#### Big improvement
 
 1. Create an issue on the documentation repository using the improvement template
 2. If you want to add a proposal to your issue you can follow steps 1-3 of the small improvement and put a link to your branch in the issue body
@@ -160,13 +158,13 @@ Once the PR is created the code review will start and after it, the branch will 
 
 ### Gitbook
 
-Even if there are [roles](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions) on Gitbook, account with writing permission can merge their modification without any prior review. Hence, to be able to contribute via this platform you must must be part of the Ethernaut DAO documentation team.
+Even if there are [roles](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions) on Gitbook, account with writing permission can merge their modifications without any prior review. Hence, to be able to contribute via this platform you must must be part of the documentation team.
 
-If you want to join us, feel free to drop a message on the `#educational-material`channel. Note that if we'll be easier for us to consider you for a writer account if you've already contributed to the documentation via Github for instance. 
+If you want to join us, feel free to drop a message on the `#educational-material`channel. Note that if we'll be easier for us to consider you for a writer account if you've already contributed to the documentation via Github. 
 
 #### Small improvement
 
-Except if there are some doubts or discussions to have on these small improvements, it should be straightforward :
+Except if you have doubts or want to have a discussion on these small improvements, it should be straightforward :
 
 1. Edit the page
 2. Save your draft. At this step, if you want you can always ask on of the team member to review the changes and add comments.
