@@ -10,9 +10,7 @@
 
 ## Educational Resources
 
-* [Beginner](educational-resources/resources-beginner.md)
-* [Intermediate](educational-resources/intermediate-resources.md)
-* [Advanced](educational-resources/advances-resources.md)
+* [Educational Resources](educational-resources/resources.md)
 
 ## Community
 
