@@ -14,7 +14,7 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 
 ## Categories
 
-### 🎮 Games 
+### 🎮 Games
 
 | **Description** | **Link** |
 | :--- | :--- |
@@ -24,14 +24,14 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 | Damn Vulnerable DeFi | [https://www.damnvulnerabledefi.xyz/](https://www.damnvulnerabledefi.xyz/) |
 | Capture the Ether | [https://capturetheether.com/](https://capturetheether.com/) |
 
-### 🎓 Tutorials 
+### 🎓 Tutorials
 
 | **Description** | **Link** |
 | :--- | :--- |
 | Hardhat | [https://hardhat.org/tutorial/](https://hardhat.org/tutorial/) |
 | Let's Do Defi Guides | [https://letsdodefi.com/](https://letsdodefi.com/) |
 
-### 📑 Articles 
+### 📑 Articles
 
 | **Description** | **Link** |
 | :--- | :--- |
@@ -45,7 +45,7 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 | Deconstructing a Solidity Contract —Part I | [https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/) |
 | Developer Superpowers with The Graph | [https://theethernaut.substack.com/p/developer-superpowers-with-thegraph](https://theethernaut.substack.com/p/developer-superpowers-with-thegraph) |
 
-### ⚒️ Dev Tools 
+### ⚒️ Dev Tools
 
 | **Description** | **Link** |
 | :--- | :--- |
@@ -54,7 +54,7 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 | Alchemy | [https://www.alchemy.com/](https://www.alchemy.com/) |
 | Tenderly - Smart Contract Monitoring and Alerting | [https://tenderly.co/](https://tenderly.co/) |
 
-### 📜 Resources 
+### 📜 Resources
 
 | **Description** | **Link** |
 | :--- | :--- |
@@ -68,7 +68,7 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 | Defi Developer RoadMap | [https://github.com/OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) |
 | Various Resources by ConseSys | [https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/EcosystemResources.md](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/EcosystemResources.md) |
 
-### 📚 Books 
+### 📚 Books
 
 | **Description** | **Link** |
 | :--- | :--- |
@@ -76,7 +76,7 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 | Life After Google: The Fall of Big Data and the Rise of the Blockchain Economy | [Audible link](https://www.audible.com/pd/Life-After-Google-Audiobook/B07FCQJJQK?action_code=ASSGB149080119000H&share_location=pdp) |
 | Token Economy Book | [https://github.com/sherminvo/TokenEconomyBook/wiki](https://github.com/sherminvo/TokenEconomyBook/wiki) |
 
-### 📹 Videos 
+### 📹 Videos
 
 | **Description** | **Link** |
 | :--- | :--- |
@@ -85,32 +85,32 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 | Bankless | [https://www.youtube.com/c/Bankless/videos](https://www.youtube.com/c/Bankless/videos) |
 | Industry Talks Austin Griffith | [https://www.youtube.com/watch?v=TGlklzDmTyc](https://www.youtube.com/watch?v=TGlklzDmTyc) |
 
-### 📣 Tweet Storms 
+### 📣 Tweet Storms
 
 | **Description** | **Link** |
 | :--- | :--- |
 | Solidity Recommendation by Santiago Palladino | [https://docs.google.com/spreadsheets/d/1aq9y\_dygyST48JmQKd0MYJzZaH8-3eDqWbQbp5pw6Xs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1aq9y_dygyST48JmQKd0MYJzZaH8-3eDqWbQbp5pw6Xs/edit?usp=sharing) |
 
-### 🌐 Substacks 
+### 🌐 Substacks
 
 | **Description** | **Link** |
 | :--- | :--- |
 | Defi Weekly Substack | [https://defiweekly.substack.com/](https://defiweekly.substack.com/) |
 | Secureum: Perspectives on security topics in Ethereum | [https://secureum.substack.com/](https://secureum.substack.com/) |
 
-### 🧰 Fun & Useful Tools 
+### 🧰 Fun & Useful Tools
 
 | **Description** | **Link** |
 | :--- | :--- |
 | A Windows 95 themed UI for interacting with Ethereum smart contracts. | [https://eth95.dev/](https://eth95.dev/) |
 
-### 💡 Tip & Tricks 
+### 💡 Tip & Tricks
 
 | **From** | **Tip/Trick** | **Description** |
 | :--- | :--- | :--- |
 | Will@Linum Labs | Loading web3.js into the dev console | [Use ES6 modules from dev tools console](https://stackoverflow.com/questions/52569996/how-to-use-es6-modules-from-dev-tools-console). That should help you load web3.js. You should be able to interact with MetaMask even without loading web3.js through the window.ethereum api, I think these would be the docs for that: [MetaMask Eth-provider](https://docs.metamask.io/guide/ethereum-providerhtml#table-of-contents) |
 
-### 📃 Blogs 
+### 📃 Blogs
 
 | **Description** | **Link** |
 | :--- | :--- |

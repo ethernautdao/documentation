@@ -8,7 +8,7 @@
 * [Getting Started](ethernautdao/getting-started.md)
 * [Contributing](ethernautdao/contributing.md)
 
-## Educational Resources
+## Education <a id="educational-resources"></a>
 
 * [Educational Resources](educational-resources/resources.md)
 
