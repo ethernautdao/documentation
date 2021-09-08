@@ -14,8 +14,6 @@
 
 ## Community
 
----
-
 * [Discord](https://discord.gg/RQ5WYDxUF3)
 * [Forum](https://forum.ethernautdao.io)
 * [Blog](https://ethernautdao.io)
