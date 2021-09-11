@@ -44,6 +44,8 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 | Most common smart contract bugs of 2020 | [https://medium.com/solidified/most-common-smart-contract-bugs-of-2020-c1edfe9340ac](https://medium.com/solidified/most-common-smart-contract-bugs-of-2020-c1edfe9340ac) |
 | Deconstructing a Solidity Contract —Part I | [https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/) |
 | Developer Superpowers with The Graph | [https://theethernaut.substack.com/p/developer-superpowers-with-thegraph](https://theethernaut.substack.com/p/developer-superpowers-with-thegraph) |
+| How to write your first decentralized app - scaffold-eth Challenge 1: Staking dApp | [https://dev.to/stermi/scaffold-eth-challenge-1-staking-dapp-4ofb](https://dev.to/stermi/scaffold-eth-challenge-1-staking-dapp-4ofb) |
+| How to create an ERC20 Token and a Solidity Vendor Contract to sell/buy your own token | [https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m](https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m) |
 
 ### ⚒️ Dev Tools
 
@@ -53,6 +55,7 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 | Infura | [https://infura.io/](https://infura.io/) |
 | Alchemy | [https://www.alchemy.com/](https://www.alchemy.com/) |
 | Tenderly - Smart Contract Monitoring and Alerting | [https://tenderly.co/](https://tenderly.co/) |
+| Scaffold-eth - 🏗 forkable Ethereum dev stack focused on fast product iterations | [https://github.com/scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) |
 
 ### 📜 Resources
 
