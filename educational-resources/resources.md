@@ -85,6 +85,7 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 
 | **Description** | **Link** |
 | :--- | :--- |
+| Extensive smart contract course by freeCodeCamp | [https://www.youtube.com/watch?v=M576WGiDBdQ](https://www.youtube.com/watch?v=M576WGiDBdQ) |
 | Finematics | [https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA](https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA) |
 | Defi Weekly | [https://www.youtube.com/channel/UCksmBX-Jj\_FGYX3EJahKW3Q](https://www.youtube.com/channel/UCksmBX-Jj_FGYX3EJahKW3Q) |
 | Bankless | [https://www.youtube.com/c/Bankless/videos](https://www.youtube.com/c/Bankless/videos) |

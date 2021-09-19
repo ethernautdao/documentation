@@ -6,6 +6,7 @@
 
 * [Introduction](ethernautdao/introduction.md)
 * [Getting Started](ethernautdao/getting-started.md)
+* [Self-learning Guide](ethernautdao/self-guided-learning.md)
 * [Contributing](ethernautdao/contributing.md)
 
 ## Education <a id="educational-resources"></a>
