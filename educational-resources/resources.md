@@ -46,6 +46,7 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 | Developer Superpowers with The Graph | [https://theethernaut.substack.com/p/developer-superpowers-with-thegraph](https://theethernaut.substack.com/p/developer-superpowers-with-thegraph) |
 | How to write your first decentralized app - scaffold-eth Challenge 1: Staking dApp | [https://dev.to/stermi/scaffold-eth-challenge-1-staking-dapp-4ofb](https://dev.to/stermi/scaffold-eth-challenge-1-staking-dapp-4ofb) |
 | How to create an ERC20 Token and a Solidity Vendor Contract to sell/buy your own token | [https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m](https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m) |
+| How to deploy your first smart contract on Ethereum with Solidity and Hardhat | [https://dev.to/stermi/how-to-deploy-your-first-smart-contract-on-ethereum-with-solidity-and-hardhat-5efc](https://dev.to/stermi/how-to-deploy-your-first-smart-contract-on-ethereum-with-solidity-and-hardhat-5efc) |
 
 ### ⚒️ Dev Tools
 
@@ -56,6 +57,7 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 | Alchemy | [https://www.alchemy.com/](https://www.alchemy.com/) |
 | Tenderly - Smart Contract Monitoring and Alerting | [https://tenderly.co/](https://tenderly.co/) |
 | Scaffold-eth - 🏗 forkable Ethereum dev stack focused on fast product iterations | [https://github.com/scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) |
+| 🛠️ solidity-template: a starter kit for your next smart contract | [https://github.com/StErMi/solidity-template](https://github.com/StErMi/solidity-template) |
 
 ### 📜 Resources
 
@@ -93,6 +95,7 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 | **Description** | **Link** |
 | :--- | :--- |
 | Solidity Recommendation by Santiago Palladino | [https://docs.google.com/spreadsheets/d/1aq9y\_dygyST48JmQKd0MYJzZaH8-3eDqWbQbp5pw6Xs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1aq9y_dygyST48JmQKd0MYJzZaH8-3eDqWbQbp5pw6Xs/edit?usp=sharing) |
+| Solidity Recommendation by [@StErMi](https://twitter.com/StErMi/) | [https://twitter.com/StErMi/status/1434054722965544964](https://twitter.com/StErMi/status/1434054722965544964) |
 
 ### 🌐 Substacks
 
