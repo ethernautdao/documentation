@@ -174,7 +174,9 @@ The changes will be made on Gitbook and synced with Github. If there are conflic
 
 #### Big improvement
 
-TBD
+Before adding or making big changes or improvements to the documentation, we recommend that you double-check and share your thoughts and ideas with the community in the `#educational-material` channel. Most likely, other community members will be happy to assist you. 
+
+Further details are to be determined as we go. If you have ideas or suggestions, let us know!
 
 
 

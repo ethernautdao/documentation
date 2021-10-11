@@ -4,6 +4,10 @@ description: Self-learning Guide
 
 # Self-learning Guide
 
+{% hint style="warning" %}
+The documentation is an ever evolving work-in-progress and it's content is determined by community members like you. Everyone is welcome to contribute and help make this documentation a wonderful experience and a great educational resource for upcoming Sol
+{% endhint %}
+
 There are many ways you can get involved in developing in Ethereum ecosystem.
 
 * Ethereum: You can work on Ethereum itself, which involves research and development (R\&D) work at the protocol level. This, in itself, is a huge effort with different areas of work coming together to create Ethereum.
