@@ -22,11 +22,11 @@ The documentation is structured around top-level directories that map the differ
 Subdirectories to top-level directories will be seen as a content with different levels of nesting and not as subsections.
 {% endhint %}
 
-If you want to have multiple levels of nesting for your content \(hence having multiple files\), you can create subdirectories in a top-level directory with a `README.md` file at the root of this subdirectory. The README file will be the top-level content of the subdirectory.
+If you want to have multiple levels of nesting for your content (hence having multiple files), you can create subdirectories in a top-level directory with a `README.md` file at the root of this subdirectory. The README file will be the top-level content of the subdirectory.
 
 For example, if you want to have a meeting reports page with separate pages for each report you could create the following tree structure :
 
-```text
+```
 ├── ethernautdao // top-level section
 │   └── meetings
 │       ├── first-meeting.md
@@ -47,7 +47,7 @@ If you are modifying content directly by making commits on the repository, make 
 
 ### Naming
 
-When creating a new file or directory please follow these rules \(some are automatically enforced when you use Gitbook\) :
+When creating a new file or directory please follow these rules (some are automatically enforced when you use Gitbook) :
 
 * Use only lowercase letters
 * Do not use special characters and spaces
@@ -62,7 +62,7 @@ The documentation is organized around topics that enforces the structure of the 
 
 Currently we have the following categories :
 
-* **EthernautDAO**: Content that documents the DAO activity \(e.g. Improvement Proposal Reports, Pairing Reports, etc\)
+* **EthernautDAO**: Content that documents the DAO activity (e.g. Improvement Proposal Reports, Pairing Reports, etc)
 * **Educational Resources**: Any type of external resources that can provide good information on any topics around Ethereum and Solidity development. Classified by level of knowledge.
 
 You want to provide content and no category fits? Feel free to propose a new content type by creating an issue on the GitHub repository.
@@ -73,9 +73,9 @@ In order to have a consistent documentation we'd like you to follow the recommen
 
 #### Markdown
 
-All the documentation is written in [Markdown](http://commonmark.org/help/). You can either edit the documentation via any text editor or directly on Gitbook \(an account & the correct role is needed\). 
+All the documentation is written in [Markdown](http://commonmark.org/help/). You can either edit the documentation via any text editor or directly on Gitbook (an account & the correct role is needed). 
 
-Regardless on how you plan to edit the documentation you should also check Gitbook's [markdown documentation](https://docs.gitbook.com/editing-content/markdown) as there are some specific syntax that could be useful \(e.g. hint boxes\).
+Regardless on how you plan to edit the documentation you should also check Gitbook's [markdown documentation](https://docs.gitbook.com/editing-content/markdown) as there are some specific syntax that could be useful (e.g. hint boxes).
 
 Embedded HTML is supported but should be avoided. If there are cases where you think it should be used, make an improvement proposal.
 
@@ -99,7 +99,7 @@ When adding image to the documentation :
 4. File specifically used in one section must be in the subdirectory with the same name as the section
 5. Following [naming](contributing.md#naming) conventions use clear names describing the content of the media
 
-As the assets directory is at the root of the documentation, to add a link to the image the path must be relative : if you add a page in the section `activity` the image link will be`![]`\(`../.gitbook/assets/filename.jpeg)`
+As the assets directory is at the root of the documentation, to add a link to the image the path must be relative : if you add a page in the section `activity` the image link will be`![]`(`../.gitbook/assets/filename.jpeg)`
 
 If you are using Gitbook you can directly add an image using the [insert palette](https://docs.gitbook.com/editing-content/rich-content/with-insert-palette).
 
@@ -111,7 +111,7 @@ All templates are located in the `templates` hidden folder.
 
 We currently provide the following templates :
 
-* **Basic Template** \[`basic-page.md`\]: as the name suggests, it contains the very minimal elements that are required for a page.
+* **Basic Template** \[`basic-page.md`]: as the name suggests, it contains the very minimal elements that are required for a page.
 
 If there are no template for a specific content type, you can propose one by following our [improvement processes](contributing.md#process). As there are some minimal requirements for a page, make sure to use our basic template as a start.
 
@@ -134,8 +134,8 @@ Ready to propose an improvement ? Depending on the type of improvement you want 
 
 We can define two category of improvements :
 
-* **Small** : These changes do not necessarily require a discussion and the process is straightforward. \(e.g. typo correction, paragraph improvement, adding a resource, etc\)
-* **Big** : These changes can have an important impact on the documentation and should therefore be discussed before having to work on it. \(e.g. documentation structure change, adding a new section, changing the structure of a page, propose a new process, etc.\)
+* **Small** : These changes do not necessarily require a discussion and the process is straightforward. (e.g. typo correction, paragraph improvement, adding a resource, etc)
+* **Big** : These changes can have an important impact on the documentation and should therefore be discussed before having to work on it. (e.g. documentation structure change, adding a new section, changing the structure of a page, propose a new process, etc.)
 
 ### Github
 
@@ -181,4 +181,3 @@ TBD
 {% hint style="info" %}
 As always if you have any doubts or questions around the contribution to the documentation, do not hesitate to contact us on our discord channel `#educational-material`
 {% endhint %}
-
