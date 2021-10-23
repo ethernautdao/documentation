@@ -1,6 +1,6 @@
 ---
 description: >-
-  A curated list of educational resources to get you started on yourjourney to
+  A curated list of educational resources to get you started on your journey to
   become an Ethernaut
 ---
 
