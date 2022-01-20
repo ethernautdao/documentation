@@ -16,8 +16,9 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 
 ### 🎮 Games
 
-| **Description**                        | **Link**                                                                                       |
+|                                        |                                                                                                |
 | -------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Description**                        | **Link**                                                                                       |
 | Ethernaut CTF                          | [https://ethernaut.openzeppelin.com/](https://ethernaut.openzeppelin.com)                      |
 | CryptoZombies                          | [https://cryptozombies.io/](https://cryptozombies.io)                                          |
 | Blockchain security games & challenges | [https://github.com/openblocksec/blocksec-ctfs](https://github.com/openblocksec/blocksec-ctfs) |
@@ -27,15 +28,17 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 
 ### 🎓 Tutorials
 
-| **Description**      | **Link**                                                       |
+|                      |                                                                |
 | -------------------- | -------------------------------------------------------------- |
+| **Description**      | **Link**                                                       |
 | Hardhat              | [https://hardhat.org/tutorial/](https://hardhat.org/tutorial/) |
 | Let's Do Defi Guides | [https://letsdodefi.com/](https://letsdodefi.com)              |
 
 ### 📑 Articles
 
-| **Description**                                                                        | **Link**                                                                                                                                                                                                                               |
+|                                                                                        |                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Description**                                                                        | **Link**                                                                                                                                                                                                                               |
 | The Complete Guide to Full Stack Ethereum Development                                  | [https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)                                                                   |
 | How to Get Into Ethereum/Crypto/Web3 as a Developer                                    | [https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)                                                                         |
 | How to become a DeFi Developer - Kerman Kohli                                          | [https://defiweekly.substack.com/p/how-to-become-a-defi-developer](https://defiweekly.substack.com/p/how-to-become-a-defi-developer)                                                                                                   |
@@ -51,8 +54,9 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 
 ### ⚒️ Dev Tools
 
-| **Description**                                                                  | **Link**                                                                                     |
+|                                                                                  |                                                                                              |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Description**                                                                  | **Link**                                                                                     |
 | Hardhat                                                                          | [https://hardhat.org/](https://hardhat.org)                                                  |
 | Infura                                                                           | [https://infura.io/](https://infura.io)                                                      |
 | Alchemy                                                                          | [https://www.alchemy.com/](https://www.alchemy.com)                                          |
@@ -62,8 +66,9 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 
 ### 📜 Resources
 
-| **Description**                | **Link**                                                                                                                                                                                     |
+|                                |                                                                                                                                                                                              |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Description**                | **Link**                                                                                                                                                                                     |
 | Kernel - Smart Contracts       | [https://kernel.community/en/resources/smart-contracts](https://kernel.community/en/resources/smart-contracts)                                                                               |
 | Kernel - Security              | [https://kernel.community/en/resources/security](https://kernel.community/en/resources/security)                                                                                             |
 | Solidity Crash Course          | [https://www.notion.so/Solidity-Crash-Course-Curriculum-7f61f269f1d54be5b6f92bd881fc4d74](https://www.notion.so/Solidity-Crash-Course-Curriculum-7f61f269f1d54be5b6f92bd881fc4d74)           |
@@ -77,52 +82,59 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 
 ### 📚 Books
 
-| **Description**                                                                | **Link**                                                                                                                             |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Mastering Ethereum                                                             | [https://github.com/ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook)                                         |
-| Life After Google: The Fall of Big Data and the Rise of the Blockchain Economy | [Audible link](https://www.audible.com/pd/Life-After-Google-Audiobook/B07FCQJJQK?action_code=ASSGB149080119000H\&share_location=pdp) |
-| Token Economy Book                                                             | [https://github.com/sherminvo/TokenEconomyBook/wiki](https://github.com/sherminvo/TokenEconomyBook/wiki)                             |
+|                                                                                |                                                                                                                                        |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Description**                                                                | **Link**                                                                                                                               |
+| Mastering Ethereum                                                             | [https://github.com/ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook)                                           |
+| Life After Google: The Fall of Big Data and the Rise of the Blockchain Economy | [Audible link](https://www.audible.com/pd/Life-After-Google-Audiobook/B07FCQJJQK?action\_code=ASSGB149080119000H\&share\_location=pdp) |
+| Token Economy Book                                                             | [https://github.com/sherminvo/TokenEconomyBook/wiki](https://github.com/sherminvo/TokenEconomyBook/wiki)                               |
 
 ### 📹 Videos
 
-| **Description**                                 | **Link**                                                                                                             |
-| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Extensive smart contract course by freeCodeCamp | [https://www.youtube.com/watch?v=M576WGiDBdQ](https://www.youtube.com/watch?v=M576WGiDBdQ)                           |
-| Finematics                                      | [https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA](https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA) |
-| Defi Weekly                                     | [https://www.youtube.com/channel/UCksmBX-Jj_FGYX3EJahKW3Q](https://www.youtube.com/channel/UCksmBX-Jj_FGYX3EJahKW3Q) |
-| Bankless                                        | [https://www.youtube.com/c/Bankless/videos](https://www.youtube.com/c/Bankless/videos)                               |
-| Industry Talks Austin Griffith                  | [https://www.youtube.com/watch?v=TGlklzDmTyc](https://www.youtube.com/watch?v=TGlklzDmTyc)                           |
+|                                                 |                                                                                                                        |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Description**                                 | **Link**                                                                                                               |
+| Extensive smart contract course by freeCodeCamp | [https://www.youtube.com/watch?v=M576WGiDBdQ](https://www.youtube.com/watch?v=M576WGiDBdQ)                             |
+| Finematics                                      | [https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA](https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA)   |
+| Defi Weekly                                     | [https://www.youtube.com/channel/UCksmBX-Jj\_FGYX3EJahKW3Q](https://www.youtube.com/channel/UCksmBX-Jj\_FGYX3EJahKW3Q) |
+| Bankless                                        | [https://www.youtube.com/c/Bankless/videos](https://www.youtube.com/c/Bankless/videos)                                 |
+| Industry Talks Austin Griffith                  | [https://www.youtube.com/watch?v=TGlklzDmTyc](https://www.youtube.com/watch?v=TGlklzDmTyc)                             |
 
 ### 📣 Tweet Storms
 
-| **Description**                                                   | **Link**                                                                                                                                                                                                     |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Solidity Recommendation by Santiago Palladino                     | [https://docs.google.com/spreadsheets/d/1aq9y_dygyST48JmQKd0MYJzZaH8-3eDqWbQbp5pw6Xs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1aq9y_dygyST48JmQKd0MYJzZaH8-3eDqWbQbp5pw6Xs/edit?usp=sharing) |
-| Solidity Recommendation by [@StErMi](https://twitter.com/StErMi/) | [https://twitter.com/StErMi/status/1434054722965544964](https://twitter.com/StErMi/status/1434054722965544964)                                                                                               |
+|                                                                   |                                                                                                                                                                                                                |
+| ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Description**                                                   | **Link**                                                                                                                                                                                                       |
+| Solidity Recommendation by Santiago Palladino                     | [https://docs.google.com/spreadsheets/d/1aq9y\_dygyST48JmQKd0MYJzZaH8-3eDqWbQbp5pw6Xs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1aq9y\_dygyST48JmQKd0MYJzZaH8-3eDqWbQbp5pw6Xs/edit?usp=sharing) |
+| Solidity Recommendation by [@StErMi](https://twitter.com/StErMi/) | [https://twitter.com/StErMi/status/1434054722965544964](https://twitter.com/StErMi/status/1434054722965544964)                                                                                                 |
 
 ### 🌐 Substacks
 
-| **Description**                                       | **Link**                                                            |
+|                                                       |                                                                     |
 | ----------------------------------------------------- | ------------------------------------------------------------------- |
+| **Description**                                       | **Link**                                                            |
 | Defi Weekly Substack                                  | [https://defiweekly.substack.com/](https://defiweekly.substack.com) |
 | Secureum: Perspectives on security topics in Ethereum | [https://secureum.substack.com/](https://secureum.substack.com)     |
 
 ### 🧰 Fun & Useful Tools
 
-| **Description**                                                       | **Link**                                |
+|                                                                       |                                         |
 | --------------------------------------------------------------------- | --------------------------------------- |
+| **Description**                                                       | **Link**                                |
 | A Windows 95 themed UI for interacting with Ethereum smart contracts. | [https://eth95.dev/](https://eth95.dev) |
 
 ### 💡 Tip & Tricks
 
-| **From**        | **Tip/Trick**                        | **Description**                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                 |                                      |                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | --------------- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **From**        | **Tip/Trick**                        | **Description**                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Will@Linum Labs | Loading web3.js into the dev console | [Use ES6 modules from dev tools console](https://stackoverflow.com/questions/52569996/how-to-use-es6-modules-from-dev-tools-console). That should help you load web3.js. You should be able to interact with MetaMask even without loading web3.js through the window.ethereum api, I think these would be the docs for that: [MetaMask Eth-provider](https://docs.metamask.io/guide/ethereum-providerhtml#table-of-contents) |
 | Karmacoma       | Sending Ether Cheat Sheet            | [https://gist.github.com/karmacoma-eth/4f206a46dedc6da6808c1ccdef3262d0](https://gist.github.com/karmacoma-eth/4f206a46dedc6da6808c1ccdef3262d0)                                                                                                                                                                                                                                                                              |
 
 ### 📃 Blogs
 
-| **Description**                        | **Link**                                                                                     |
+|                                        |                                                                                              |
 | -------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Description**                        | **Link**                                                                                     |
 | Alberto Cuesta Cañada (Yield Protocol) | [https://albertocuestacanada.medium.com/](https://albertocuestacanada.medium.com)            |
 |                                        | [https://hackernoon.com/u/albertocuestacanada](https://hackernoon.com/u/albertocuestacanada) |

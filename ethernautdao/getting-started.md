@@ -29,8 +29,8 @@ If you are selected for a pairing (Congratulations 🎉 ) we would love to hear 
 
 If you're not selected don't worry there are lot of opportunities ! In the meantime you can always work on your skills. Here are some ideas :
 
-* Check our resources to improve you knowledge & skills (e.g. Solidity, EVM, ...)
+* Check [our resources](../educational-resources/resources.md) to improve your knowledge & skills (e.g. Solidity, EVM, ...)
 * Discuss with members of the DAO on our discord to improve your understanding on different topics or share ideas about projects
-* Participate to the DAO. Any help is welcomed ! 
+* Participate to the DAO. Any help is welcomed !&#x20;
 
 ## Mentor
