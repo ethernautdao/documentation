@@ -8,15 +8,13 @@
 * [Getting Started](ethernautdao/getting-started.md)
 * [Contributing](ethernautdao/contributing.md)
 
-## Education <a id="educational-resources"></a>
+## Education <a href="#educational-resources" id="educational-resources"></a>
 
 * [Educational Resources](educational-resources/resources.md)
 * [Self-learning Guide](educational-resources/self-guided-learning.md)
 
 ## Community
 
+* [Blog](https://mirror.xyz/ethernautdao.eth)
 * [Discord](https://discord.gg/RQ5WYDxUF3)
-* [Forum](https://forum.ethernautdao.io)
-* [Blog](https://ethernautdao.io)
 * [Twitter](https://twitter.com/ethernautdao)
-
