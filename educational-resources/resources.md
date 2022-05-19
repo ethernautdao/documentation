@@ -79,6 +79,7 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 | Defi Developer RoadMap         | [https://github.com/OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)                                                                               |
 | Various Resources by ConseSys  | [https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/EcosystemResources.md](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/EcosystemResources.md) |
 | Buildspace                     | [https://buildspace.so](https://buildspace.so)                                                                                                                                               |
+| Rari Capital                   | [https://github.com/Rari-Capital/solcurity](https://github.com/Rari-Capital/solcurity)                                                                                                       |
 
 ### 📚 Books
 
