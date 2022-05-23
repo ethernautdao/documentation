@@ -28,11 +28,12 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 
 ### 🎓 Tutorials
 
-|                      |                                                                |
-| -------------------- | -------------------------------------------------------------- |
-| **Description**      | **Link**                                                       |
-| Hardhat              | [https://hardhat.org/tutorial/](https://hardhat.org/tutorial/) |
-| Let's Do Defi Guides | [https://letsdodefi.com/](https://letsdodefi.com)              |
+|                                         |                                                                                                                                        |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Description**                         | **Link**                                                                                                                               |
+| Hardhat                                 | [https://hardhat.org/tutorial/](https://hardhat.org/tutorial/)                                                                         |
+| Let's Do Defi Guides                    | [https://letsdodefi.com/](https://letsdodefi.com)                                                                                      |
+| Journey to become a Blockchain Engineer | [https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer) |
 
 ### 📑 Articles
 
@@ -51,6 +52,7 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 | How to write your first decentralized app - scaffold-eth Challenge 1: Staking dApp     | [https://dev.to/stermi/scaffold-eth-challenge-1-staking-dapp-4ofb](https://dev.to/stermi/scaffold-eth-challenge-1-staking-dapp-4ofb)                                                                                                   |
 | How to create an ERC20 Token and a Solidity Vendor Contract to sell/buy your own token | [https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m](https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m) |
 | How to deploy your first smart contract on Ethereum with Solidity and Hardhat          | [https://dev.to/stermi/how-to-deploy-your-first-smart-contract-on-ethereum-with-solidity-and-hardhat-5efc](https://dev.to/stermi/how-to-deploy-your-first-smart-contract-on-ethereum-with-solidity-and-hardhat-5efc)                   |
+| Understanding Blockchain Explorers                                                     | [https://frankiefab.hashnode.dev/understanding-blockchain-explorers](https://frankiefab.hashnode.dev/understanding-blockchain-explorers)                                                                                               |
 
 ### ⚒️ Dev Tools
 
@@ -66,26 +68,30 @@ The best place for discussions is our [EthernautDAO Discord server](https://disc
 
 ### 📜 Resources
 
-|                                |                                                                                                                                                                                              |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Description**                | **Link**                                                                                                                                                                                     |
-| Kernel - Smart Contracts       | [https://kernel.community/en/resources/smart-contracts](https://kernel.community/en/resources/smart-contracts)                                                                               |
-| Kernel - Security              | [https://kernel.community/en/resources/security](https://kernel.community/en/resources/security)                                                                                             |
-| Solidity Crash Course          | [https://www.notion.so/Solidity-Crash-Course-Curriculum-7f61f269f1d54be5b6f92bd881fc4d74](https://www.notion.so/Solidity-Crash-Course-Curriculum-7f61f269f1d54be5b6f92bd881fc4d74)           |
-| Build Guidl                    | [https://buidlguidl.com/](https://buidlguidl.com)                                                                                                                                            |
-| ETH Foundation Developer Guide | [https://ethereum.org/en/developers/](https://ethereum.org/en/developers/)                                                                                                                   |
-| Learn Solidity in X and Y      | [https://learnxinyminutes.com/docs/solidity/](https://learnxinyminutes.com/docs/solidity/)                                                                                                   |
-| DeFi Threat Matrix             | [https://github.com/freight-trust/defi-threat](https://github.com/freight-trust/defi-threat)                                                                                                 |
-| Defi Developer RoadMap         | [https://github.com/OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)                                                                               |
-| Various Resources by ConseSys  | [https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/EcosystemResources.md](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/EcosystemResources.md) |
-| Buildspace                     | [https://buildspace.so](https://buildspace.so)                                                                                                                                               |
-| Rari Capital                   | [https://github.com/Rari-Capital/solcurity](https://github.com/Rari-Capital/solcurity)                                                                                                       |
+|                                  |                                                                                                                                                                                                            |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Description**                  | **Link**                                                                                                                                                                                                   |
+| Kernel - Smart Contracts         | [https://kernel.community/en/resources/smart-contracts](https://kernel.community/en/resources/smart-contracts)                                                                                             |
+| Kernel - Security                | [https://kernel.community/en/resources/security](https://kernel.community/en/resources/security)                                                                                                           |
+| Solidity Crash Course            | [https://www.notion.so/Solidity-Crash-Course-Curriculum-7f61f269f1d54be5b6f92bd881fc4d74](https://www.notion.so/Solidity-Crash-Course-Curriculum-7f61f269f1d54be5b6f92bd881fc4d74)                         |
+| Build Guidl                      | [https://buidlguidl.com/](https://buidlguidl.com)                                                                                                                                                          |
+| ETH Foundation Developer Guide   | [https://ethereum.org/en/developers/](https://ethereum.org/en/developers/)                                                                                                                                 |
+| Learn Solidity in X and Y        | [https://learnxinyminutes.com/docs/solidity/](https://learnxinyminutes.com/docs/solidity/)                                                                                                                 |
+| DeFi Threat Matrix               | [https://github.com/freight-trust/defi-threat](https://github.com/freight-trust/defi-threat)                                                                                                               |
+| Defi Developer RoadMap           | [https://github.com/OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)                                                                                             |
+| Various Resources by ConseSys    | [https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/EcosystemResources.md](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/EcosystemResources.md)               |
+| Buildspace                       | [https://buildspace.so](https://buildspace.so)                                                                                                                                                             |
+| Rari Capital                     | [https://github.com/Rari-Capital/solcurity](https://github.com/Rari-Capital/solcurity)                                                                                                                     |
+| Web3 Security Resources          | [https://www.w3bs3c.com/](https://www.w3bs3c.com/)                                                                                                                                                         |
+| Smart Contract Security          | [https://docs.google.com/presentation/d/18MJpWB2aktdSPen83K6bEfdhji3BOX9Urx3qkALdie8/edit#slide=id.p](https://docs.google.com/presentation/d/18MJpWB2aktdSPen83K6bEfdhji3BOX9Urx3qkALdie8/edit#slide=id.p) |
+| Blockchain Development Resources | [https://github.com/frankiefab100/Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources)                                                                     |
 
 ### 📚 Books
 
 |                                                                                |                                                                                                                                        |
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **Description**                                                                | **Link**                                                                                                                               |
+| Web3 Books Collection                                                          | [https://www.useweb3.xyz/books](https://www.useweb3.xyz/books)                                                                         |
 | Mastering Ethereum                                                             | [https://github.com/ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook)                                           |
 | Life After Google: The Fall of Big Data and the Rise of the Blockchain Economy | [Audible link](https://www.audible.com/pd/Life-After-Google-Audiobook/B07FCQJJQK?action\_code=ASSGB149080119000H\&share\_location=pdp) |
 | Token Economy Book                                                             | [https://github.com/sherminvo/TokenEconomyBook/wiki](https://github.com/sherminvo/TokenEconomyBook/wiki)                               |
