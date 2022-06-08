@@ -1,7 +1,5 @@
 ---
 description: We bridge web2 developers into web3 wizards.
-cover: .gitbook/assets/EthernautDao-Logo-future.png
-coverY: 0
 layout: landing
 ---
 
