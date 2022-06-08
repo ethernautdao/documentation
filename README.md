@@ -1,11 +1,32 @@
-# EthernautDAO Documentation
+---
+description: We bridge web2 developers into web3 wizards.
+cover: .gitbook/assets/EthernautDao-Logo-future.png
+coverY: 0
+layout: landing
+---
 
-This page provides links to the key resources of the EthernautDAO documentation.
+# Welcome
 
-{% content-ref url="educational-resources/resources.md" %}
-[resources.md](educational-resources/resources.md)
+Pick a topic below that best fits your interest.
+
+{% content-ref url="ethernautdao/i-want-to-learn/" %}
+[i-want-to-learn](ethernautdao/i-want-to-learn/)
 {% endcontent-ref %}
 
-{% content-ref url="ethernautdao/contributing.md" %}
-[contributing.md](ethernautdao/contributing.md)
+{% content-ref url="ethernautdao/i-want-to-mentor/" %}
+[i-want-to-mentor](ethernautdao/i-want-to-mentor/)
 {% endcontent-ref %}
+
+{% content-ref url="ethernautdao/i-want-to-grow-my-team-but-i-dont-have-a-mentor.md" %}
+[i-want-to-grow-my-team-but-i-dont-have-a-mentor.md](ethernautdao/i-want-to-grow-my-team-but-i-dont-have-a-mentor.md)
+{% endcontent-ref %}
+
+{% content-ref url="ethernautdao/introduction.md" %}
+[introduction.md](ethernautdao/introduction.md)
+{% endcontent-ref %}
+
+{% content-ref url="community/contributing.md" %}
+[contributing.md](community/contributing.md)
+{% endcontent-ref %}
+
+### Resources

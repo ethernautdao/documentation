@@ -4,13 +4,13 @@ description: >-
   become an Ethernaut
 ---
 
-# Educational Resources
+# 🗃 Educational Resources
 
 ## Contribute
 
-Everyone is invited to contribute educational resources. We kindly ask to submit your contribution via a [pull-request](https://github.com/ethernautdao/documentation). An EthernautDAO community member will then curate the content and merge it accordingly.
-
 The best place for discussions is our [EthernautDAO Discord server](https://discord.gg/RQ5WYDxUF3). Be welcome to post your educational resources in the #educational-material channel, too.
+
+Everyone is invited to contribute educational resources. We kindly ask to submit your contribution via a [pull-request](https://github.com/ethernautdao/documentation). An EthernautDAO community member will then curate the content and merge it accordingly.
 
 ## Categories
 
