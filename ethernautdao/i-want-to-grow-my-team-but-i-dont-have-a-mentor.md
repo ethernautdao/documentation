@@ -11,7 +11,7 @@ coverY: 0
 
 This is a job offer for mentors. You either have the candidates to be mentored or you need both a mentor and a mentee. We can offer mentors a payment for the hours implemented into training. \
 \
-To apply to this process please contact Dhannte on Discord [here](https://t.co/mrWVYLM8Q1)
+To apply to this process please contact Dhannte on Discord [here](https://discordapp.com/users/343539565623115786/)
 
 </details>
 
@@ -25,7 +25,7 @@ This option is for public goods projects in need of a mentor and projects with s
 
 :red\_circle: Future profitable projects will need to submit a fund request proposal and future EthernautDAO retribution, which is to be voted by the EthernautDAO council.
 
-To apply please contact Dhannte on discord [here](https://t.co/mrWVYLM8Q1)\
+To apply please contact Dhannte on discord [here](https://discordapp.com/users/343539565623115786/)\
 
 
 
