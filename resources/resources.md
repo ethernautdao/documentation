@@ -21,7 +21,7 @@ Everyone is invited to contribute educational resources. We kindly ask to submit
 | **Description**                        | **Link**                                                                                       |
 | Ethernaut CTF                          | [https://ethernaut.openzeppelin.com/](https://ethernaut.openzeppelin.com)                      |
 | CryptoZombies                          | [https://cryptozombies.io/](https://cryptozombies.io)                                          |
-| Blockchain security games & challenges | [https://github.com/openblocksec/blocksec-ctfs](https://github.com/openblocksec/blocksec-ctfs) |
+| Blockchain security games & challenges | [https://github.com/blockthreat/blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) |
 | Damn Vulnerable DeFi                   | [https://www.damnvulnerabledefi.xyz/](https://www.damnvulnerabledefi.xyz)                      |
 | Capture the Ether                      | [https://capturetheether.com/](https://capturetheether.com)                                    |
 | Solidity Trivia                        | [https://github.com/ajsantander/trivias](https://github.com/ajsantander/trivias)               |
@@ -71,13 +71,13 @@ Everyone is invited to contribute educational resources. We kindly ask to submit
 |                                  |                                                                                                                                                                                                            |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Description**                  | **Link**                                                                                                                                                                                                   |
-| Kernel - Smart Contracts         | [https://kernel.community/en/resources/smart-contracts](https://kernel.community/en/resources/smart-contracts)                                                                                             |
+| Kernel - Development             | [https://kernel.community/en/resources/development](https://kernel.community/en/resources/development)                                                                                             |
 | Kernel - Security                | [https://kernel.community/en/resources/security](https://kernel.community/en/resources/security)                                                                                                           |
 | Solidity Crash Course            | [https://www.notion.so/Solidity-Crash-Course-Curriculum-7f61f269f1d54be5b6f92bd881fc4d74](https://www.notion.so/Solidity-Crash-Course-Curriculum-7f61f269f1d54be5b6f92bd881fc4d74)                         |
 | Build Guidl                      | [https://buidlguidl.com/](https://buidlguidl.com)                                                                                                                                                          |
 | ETH Foundation Developer Guide   | [https://ethereum.org/en/developers/](https://ethereum.org/en/developers/)                                                                                                                                 |
 | Learn Solidity in X and Y        | [https://learnxinyminutes.com/docs/solidity/](https://learnxinyminutes.com/docs/solidity/)                                                                                                                 |
-| DeFi Threat Matrix               | [https://github.com/freight-trust/defi-threat](https://github.com/freight-trust/defi-threat)                                                                                                               |
+| DeFi Threat Matrix               | [https://github.com/manifoldfinance/defi-threat](https://github.com/manifoldfinance/defi-threat)                                                                                                               |
 | Defi Developer RoadMap           | [https://github.com/OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)                                                                                             |
 | Various Resources by ConseSys    | [https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/EcosystemResources.md](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/EcosystemResources.md)               |
 | Buildspace                       | [https://buildspace.so](https://buildspace.so)                                                                                                                                                             |
