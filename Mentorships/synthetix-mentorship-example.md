@@ -1,2 +1,0 @@
-# ⚙ Synthetix Mentorship example
-

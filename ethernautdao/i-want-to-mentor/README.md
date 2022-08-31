@@ -10,7 +10,7 @@ description: Guideline for seasoned Solidity developers interested in mentoring
 
 A developer from the team publishes a mentorship for what they are looking for. The same developer will pick candidates which applied to this mentorship and train them to be part of the team. This mentorship is focused on hiring developers once they finish the training. \
 \
-To publish a mentorship follow this link: [Mentorship template](https://docs.google.com/forms/d/e/1FAIpQLSdlmKrK-x7ONDBWVBniV26atkK0Ptxvr6xXEUz-fM42QArqMA/viewform?usp=sf\_link)
+To publish a mentorship follow this link: [Mentorship template](https://forum.ethernautdao.io/c/mentorships/6) and click on "New Topic"
 
 </details>
 
@@ -20,7 +20,7 @@ To publish a mentorship follow this link: [Mentorship template](https://docs.goo
 
 A developer, who wants to mentor, publishes a mentorship with the topics to be covered. The same developer will pick candidates who applied for this mentorship and train them. \
 \
-To publish a mentorship follow this link: [Mentorship template](https://docs.google.com/forms/d/e/1FAIpQLSdlmKrK-x7ONDBWVBniV26atkK0Ptxvr6xXEUz-fM42QArqMA/viewform?usp=sf\_link)
+To publish a mentorship follow this link: [Mentorship template](https://forum.ethernautdao.io/c/mentorships/6) and click on "New Topic"
 
 </details>
 

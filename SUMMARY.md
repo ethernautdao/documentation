@@ -11,10 +11,6 @@
 * [🤝 I want to grow my team but I don't have a mentor](ethernautdao/i-want-to-grow-my-team-but-i-dont-have-a-mentor.md)
 * [🧑🚀 About us](ethernautdao/introduction.md)
 
-## Mentorships <a href="#Mentorships" id="Mentorships"></a>
-
-* [⚙ Synthetix Mentorship example](Mentorships/synthetix-mentorship-example.md)
-
 ## Resources
 
 * [🗃 Educational Resources](resources/resources.md)
